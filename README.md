@@ -19,3 +19,9 @@ El proyecto fue desarrollado en spring boot. La estructura general del proyecto 
 - Consultar la configuración del proyecto en el archivo application.propierties
 - El backup de la base de datos esta en el archivo parameta.sql
 - Se desarrollaron pruebas en postman para comprobar el funcionamiento de la api. En este enlace se puede consultar la configuración para replicar: <https://www.postman.com/collections/39628ce1c875326eae61>
+
+Llamado del API:
+![Uso del API](https://github.com/jodatm/prueba_parameta/blob/master/postman1.png)
+
+Validaciones del API:
+![Uso del API](https://github.com/jodatm/prueba_parameta/blob/master/postman2.png)
